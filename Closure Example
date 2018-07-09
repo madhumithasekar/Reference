@@ -1,5 +1,5 @@
 //this code is in script.js file
-`
+
 function init(){
 
  function fruits(){
@@ -45,4 +45,4 @@ function init(){
              
              object.print(fruits.mango);
            
-      </script>`
+      </script>
