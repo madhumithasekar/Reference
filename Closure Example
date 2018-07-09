@@ -1,0 +1,35 @@
+function init(){
+
+ function fruits(){
+         function apple(){
+            return '<div id="main">'+
+                  '   <div>'+
+                  '   This is apple'+
+                  '   </div>'+
+                  '</div>';            
+         }
+         
+         function mango(){
+            return '<div id="main">'+
+                  '   <div>'+
+                  '   This is mango'+
+                  '   </div>'+
+                  '</div>';            
+         }
+
+         return{
+            apple: apple,
+            mango: mango
+         }
+  }
+
+   function print(var1){
+
+      document.write(var1())
+   }
+   
+   return {
+      fruits:fruits,
+      print: print
+   }
+}
