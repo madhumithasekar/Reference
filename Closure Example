@@ -1,3 +1,5 @@
+//this code is in script.js file
+
 function init(){
 
  function fruits(){
@@ -24,7 +26,7 @@ function init(){
   }
 
    function print(var1){
-
+      //fruits.mango is passed to var1. So var1 is a function and to call the function use var1()
       document.write(var1())
    }
    
@@ -33,3 +35,14 @@ function init(){
       print: print
    }
 }
+
+//call the below code in index.html file
+
+     <script>
+             
+             var object = init();
+             var fruits = object.fruits();
+             
+             object.print(fruits.mango);
+           
+      </script>
