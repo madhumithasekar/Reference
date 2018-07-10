@@ -22,7 +22,7 @@
 
 11. A copywriter should stress any appeal that are built into that product. He should stress the same in his copy writing.
 
-12, Thus a copywriters job is to detect the mass existing desire and change their force and direction.
+12. Thus a copywriters job is to detect the mass existing desire and change their force and direction.
 
 13. Every desire has 3 vital dimensions – urgency, intensity, degree of demand to be satisfied and you use the most powerful desire in all three dimensions as your headline. Your job is to provide satisfaction to that desire in a single statement. – Page 24
 
@@ -39,15 +39,22 @@
 16. Your product, in order to pull sales away from them, must introduce a new mechanism that performs the claim, or a new quality that assures its performance, or a new freedom from old limitations that improves the performance.Examples:
 
 1. Our TV has more tubes in the television set
+
 2. The more stitches per inch in the suit
+
 3. The weight of steel in your car’s door, and he’s more likely to believe that your car will protect his life if  he should have an accident on the highway.
+
 4. Tell Your prospect the number of times your plant removes the impurities in your face cream, and she’s more likely to believe that your cream will remove the impurities in her skin.
+
 5. Chemically protected paper means you can hand your prize books down to your children.
+
 6. Quick-frozen food means you can retain taste and vitamins for months after your purchase.
+
 7. The Rolls-Royce must give you perfect riding silence because every metal part of the chassis is shielded from every other metal part by a protective coat of rubber.
+
 8. Helena Rubinstein’s new face cream must make your skin look younger because it contains the placenta of living animals.
-17. Your product, in order to pull sales away from them, must introduce a new mechanism that performs
-the claim, or a new quality that assures its performance, or a new freedom from old limitations that improves the performance. This is the point of difference – Page 26
+
+17. Your product, in order to pull sales away from them, must introduce a new mechanism that performs the claim, or a new quality that assures its performance, or a new freedom from old limitations that improves the performance. This is the point of difference – Page 26
 
 ## Chapter 2
 
@@ -69,15 +76,15 @@ When you advertised on toysrus.com there was a mass desire for hatchimals and th
          2. How close is it to the surface of his consciousness?
          3. Is he aware only that a problem or need exists?
          4. Is he aware if they can be satisfied?
-         5. If he is aware that a means of satisfaction exists, does he realize that it lies in your group of                    products specifically in your product by name or more specifically in your product at a given                price?
+         5. If he is aware that a means of satisfaction exists, does he realize that it lies in your group of                    products specifically in your product by name or more specifically in your product at a given price?
 
-The answer to these questions will help you determine the State of Awareness of your market—their present                  state of knowledge about your product and the satisfaction that your product performs. It is at this precise point          of awareness that your headline begins.
+The answer to these questions will help you determine the State of Awareness of your market—their present state of knowledge about your product and the satisfaction that your product performs. It is at this precise point of awareness that your headline begins.
 
  The more aware your market, the easier the selling job, the less you need to say.
 
-1.  The Most Aware:
+###  The Most Aware:
 
-The customer knows of your product—knows what it does—knows he wants it. At this point, he just hasn’t                    gotten around to buying it yet. Your headline—in fact, your entire ad—need state little more except the name                of your product and a bargain price. For example:
+The customer knows of your product—knows what it does—knows he wants it. At this point, he just hasn’t gotten around to buying it yet. Your headline—in fact, your entire ad—need state little more except the name of your product and a bargain price. For example:
 
 “Revere Zomar Lens, Electric Eve Camera—Formerly $149.50—Now Only $119.95.”
 
@@ -87,11 +94,11 @@ Read more on page 32
 
 2. The Customer Knows of the Product But Doesn’t Yet Want It
 
-Case 1:
+### Case 1:
 
 A good example would be many customers knows about submersible pumps and wants it. The prospect searches it in Google just as “submersible pumps” and not as “C.R.I submersible pumps”. When we wrote ad copy as “C.R.I Submersible pumps” and showed it to these prospects who searched as “submersible pumps” they did not react well to the ad copy.
 
-Case 2:
+### Case 2:
 
 When I ran PPV ads as “Get Free hatchimals” for people who were visiting toysrus.com these prospects reacted to the ad copy.
 
@@ -113,7 +120,7 @@ Here your headline is faced with one of seven tasks:
 
 1. To reinforce your prospects desire for your product: 
 
-  Example ads:
+  ### Example ads:
 
 “Hair Coloring So Natural Only Her Hairdresser Knows For Sure—Miss Clairol.” It starts with hair coloring explains why it is better and then leads to the brand which is Miss Clairol.
 
@@ -154,7 +161,7 @@ Now here in this case, prospect either knows, or recognizes immediately, that he
 
 Example: He knows about submersible pumps but he does not know about C.R.I submersible pumps. So here he recognizes immediately that he wants what the product does; but he doesn’t yet know’ that your product will do it for him.
 
- So what should be done in this case?
+ ### So what should be done in this case?
 
 Now the above desire is called amorphous desire. Amorphous desires means a desire without a clearly defined shape or form.
 
