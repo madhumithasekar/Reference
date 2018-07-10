@@ -40,7 +40,7 @@ function init(){
 
 ## call the below code in index.html file
 
-```
+```javascript
  <script>
 
               var object = init();
