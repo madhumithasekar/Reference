@@ -1,40 +1,42 @@
-The desire should already exist – Page 11
+# Breakthrough advertising – Points to remember
 
-Every new advertisement should be fresh new problem that never existed on the face of this earth.
+1. The desire should already exist – Page 11
 
-Copy cannot create desire for the product. Your copy could only focus the existing desires onto that particular product. In other words a copy writer should channel the existing desire onto that particular product.  – Page 19. Read an example on page 20. What happens when you create an ad against the mass desire?
+2. Every new advertisement should be fresh new problem that never existed on the face of this earth.
 
-Desire is nothing but a private want.
+3. Copy cannot create desire for the product. Your copy could only focus the existing desires onto that particular product. In other words a copy writer should channel the existing desire onto that particular product.  – Page 19. Read an example on page 20. What happens when you create an ad against the mass desire?
 
-We should only address our ads to individuals – Page 20
+4. Desire is nothing but a private want.
 
-If a private desire is shared by a statistically significant number of people a market is born. – Page 21
+5. We should only address our ads to individuals – Page 20
 
-All these private wants take years to develop, and they are created b\ social, economic and technological forces. Page 21
+6. If a private desire is shared by a statistically significant number of people a market is born. – Page 21
 
-Simply direct this mass existing desire or economic force onto the product. When you try to create that desire it is no longer advertising but education.
+7. All these private wants take years to develop, and they are created b\ social, economic and technological forces. Page 21
 
-A copywriters job is to create a fresh appeal and to build a stronger believability to the product he is advertising. – Page 22
+8. Simply direct this mass existing desire or economic force onto the product. When you try to create that desire it is no longer advertising but education.
 
-A copywriter offers the same claim of relief as his competitors but in a different way.
+9. A copywriters job is to create a fresh appeal and to build a stronger believability to the product he is advertising. – Page 22
 
-A copywriter should stress any appeal that are built into that product. He should stress the same in his copy writing.
+10. A copywriter offers the same claim of relief as his competitors but in a different way.
 
-Thus a copywriters job is to detect the mass existing desire and change their force and direction.
+11. A copywriter should stress any appeal that are built into that product. He should stress the same in his copy writing.
 
-Every desire has 3 vital dimensions – urgency, intensity, degree of demand to be satisfied and you use the most powerful desire in all three dimensions as your headline. Your job is to provide satisfaction to that desire in a single statement. – Page 24
+12, Thus a copywriters job is to detect the mass existing desire and change their force and direction.
 
-All customers can be classified in to three types.  Page 24
+13. Every desire has 3 vital dimensions – urgency, intensity, degree of demand to be satisfied and you use the most powerful desire in all three dimensions as your headline. Your job is to provide satisfaction to that desire in a single statement. – Page 24
 
-– People who are aware of your product and realizes it can satisfy their desire – in this case headline starts               with the product
+14. All customers can be classified in to three types.  Page 24
+
+– People who are aware of your product and realizes it can satisfy their desire – in this case headline starts with the product
 
 – People who are aware of your product, but only of the desire – here your headline starts with desire
 
-– People who are not aware of really what he seeks but is only concerned with a general problem – your                   headline starts with the problem and crystallizes into a specific need.
+– People who are not aware of really what he seeks but is only concerned with a general problem – your headline starts with the problem and crystallizes into a specific need.
 
-To satisfy the desire, mention only the functional aspect of the product – the product in action – the series of benefits that your product performs for your consumer and on the basis of which he buys your product. Do not mention the physical aspect of the product eg. steel in car, the glass in a vase, the tobacco in a cigarette, or the paper in a book.  – Page 25
+15. To satisfy the desire, mention only the functional aspect of the product – the product in action – the series of benefits that your product performs for your consumer and on the basis of which he buys your product. Do not mention the physical aspect of the product eg. steel in car, the glass in a vase, the tobacco in a cigarette, or the paper in a book.  – Page 25
 
-Your product, in order to pull sales away from them, must introduce a new mechanism that performs the claim, or a new quality that assures its performance, or a new freedom from old limitations that improves the performance.Examples:
+16. Your product, in order to pull sales away from them, must introduce a new mechanism that performs the claim, or a new quality that assures its performance, or a new freedom from old limitations that improves the performance.Examples:
 
 1. Our TV has more tubes in the television set
 2. The more stitches per inch in the suit
