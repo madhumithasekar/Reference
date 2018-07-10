@@ -281,6 +281,8 @@ You can also use the below HTML code instead of using focus()
 <select id="s-state" required>...</state>
 ```
 
+### DOM Loading !important
+
 When do you want your javascript to run..?Sometimes you want to run your javascript only after all the DOM elements are loaded
 
 sometimes your script might run before the DOM element is defined and that will cause issues.. In this case you can use DOMContentLoaded event or $.ready
@@ -296,7 +298,23 @@ document.addEventListener('DOMContentLoaded', function(){
 
 ```
 
-Disable a button in javascript
+#### DOM Loading in JQuery - the same script using jQuery:
+
+```javascript
+
+jQuery.ready(function(){
+  document.querySelector('#my-awesome-el').innerHTML = new Date
+});
+
+// OR
+
+$(function(){
+  document.querySelector('#my-awesome-el').innerHTML = new Date
+});
+
+```
+
+### Disable a button in javascript
 
 ```javascript
 
@@ -322,18 +340,4 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 ```
 
-the same script using jQuery:
 
-```javascript
-
-jQuery.ready(function(){
-  document.querySelector('#my-awesome-el').innerHTML = new Date
-});
-
-// OR
-
-$(function(){
-  document.querySelector('#my-awesome-el').innerHTML = new Date
-});
-
-```
