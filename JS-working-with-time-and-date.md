@@ -63,3 +63,24 @@ if (hours > 12) {
 c.innerHTML = hours + ':' + d.getMinutes();
 ```
 
+### To print a clock which keeps ticking or updating the time without page refresh
+
+//setInterval calls the function every 1000 milliseconds
+
+```javascript
+setInterval(updateTime, 1000);
+
+function updateTime() {
+   var d = new Date();
+
+   var hours = d.getHours();
+   if (hours >12) {
+      hours -=12;
+   }
+
+   c.innerHTML = hours + ':' + d.getMinutes()+ ':' + d.getSeconds();
+ } 
+
+```
+
+returns 3:16:45
