@@ -1,5 +1,5 @@
 ## add this code in script.js file
-```
+```javascript
 function init(){
 
  function fruits(){
