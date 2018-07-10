@@ -1,5 +1,5 @@
-//this code is in script.js file
-`
+## this code is in script.js file
+```
 function init(){
 
  function fruits(){
@@ -36,7 +36,7 @@ function init(){
    }
 }
 
-//call the below code in index.html file
+## call the below code in index.html file
 
      <script>
              
@@ -45,4 +45,4 @@ function init(){
              
              object.print(fruits.mango);
            
-      </script> `
+      </script> ```
