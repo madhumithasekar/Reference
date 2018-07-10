@@ -84,3 +84,24 @@ function updateTime() {
 ```
 
 returns 3:16:45
+
+### To add AM and PM to the clock
+
+```javascript
+setInterval(updateTime, 1000);
+
+function updateTime() {
+   var d = new Date();
+
+   var hours = d.getHours();
+     ampm = 'AM';
+   if (hours >12) {
+      hours -=12;
+      ampm = 'PM';
+   }
+
+   c.innerHTML = hours + ':' + d.getMinutes()+ ':' + d.getSeconds() + ' ' + ampm;
+ } 
+
+```
+
