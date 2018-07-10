@@ -36,14 +36,17 @@ function init(){
    }
 }
 
+```
+
 ## call the below code in index.html file
 
-     <script>
-             
-             var object = init();
-             var fruits = object.fruits();
-             
-             object.print(fruits.mango);
-           
-      </script> 
+```
+ <script>
+
+              var object = init();
+              var fruits = object.fruits();
+
+              object.print(fruits.mango);
+
+ </script> 
 ```
