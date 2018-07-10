@@ -45,4 +45,5 @@ function init(){
              
              object.print(fruits.mango);
            
-      </script> ```
+      </script> 
+```
