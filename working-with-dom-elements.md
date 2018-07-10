@@ -340,4 +340,59 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 ```
 
+## To get the elements of DIV -> use innerHTML
+
+```
+<div class ="credits section light-padding">
+
+  <div class="credits-inner section-inner">
+
+   <!--/Re
+    &copy; 2016 <a href="http://google.com" title="H+ Sport </a>
+
+   <p> class="fright">
+      <span> <a href="http://google.com">Lynda.com </a></span><a title="To the top" href="#" class="tothetop">Up!</a>
+   <p>
+
+  </div>
+</div>
+```
+
+### To get the complete DIV
+
+```javascript
+document.querySelector('.credits .fright');
+```
+returns
+
+```
+ <p> class="fright">
+       <span> <a href="http://google.com">Lynda.com </a></span><a title="To the top" href="#" class="tothetop">Up!</a>
+ <p>
+```
+
+### To get the inner DIV of the parent DIV
+
+```javascript
+document.querySelector('.credits .fright').innerHTML; -> returns
+```
+```
+<span> <a href="http://google.com">Lynda.com </a></span><a title="To the top" href="#" class="tothetop">Up!</a>
+```
+
+To get the text content -> will strip of all HTML tags and return the text content
+
+```javascript
+document.querySelector('.credits .fright').textContent;
+```
+
+returns Lynda.com - Up!
+
+## To set the elements of a DOM element
+
+```javascript
+var results = document.getElementById('results');
+results.innerHTML = 'Total items:' + 23;
+```
+
 
