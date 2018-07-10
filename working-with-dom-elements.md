@@ -6,7 +6,7 @@
 
 //To get the above element in javascript
 
-```
+```javascript
  document.getElementById('txt-a-bball') 
  ```
 
@@ -17,7 +17,7 @@
 
 //To get the value inside this input box use
 
-```
+```javascript
 
 document.getElementById('txt-a-bball').value 
 
@@ -27,7 +27,7 @@ document.getElementById('txt-a-bball').value
 
 //You can also set the value like this
 
-```
+```javascript
 
 document.getElementById('txt-a-bball').value = 4
 
@@ -37,7 +37,7 @@ document.getElementById('txt-a-bball').value = 4
 
 //If you want to print all the forms on the page, then use this
 
-```
+```javascript
 
 document.forms[0]  -> prints the first form on the html file
 
@@ -53,7 +53,7 @@ returns
 
 //to access all the elements inside the form
 
-```
+```javascript
 
 document.getElementById('cart-hplus').elements
 
@@ -69,7 +69,7 @@ returns
 
 ```
 
-```
+```javascript
 document.getElementById('cart-hplus').elements[0] -> will return the first elements
 
 ```
@@ -86,8 +86,9 @@ returns
 
 eg: 
 
-```
 <input type="radio" value="pickup" name="r_method" id="r-method-pickup" checked>
+
+```javascript
 
 document.getElementById('cart-hplus').r_method
 
