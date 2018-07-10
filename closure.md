@@ -1,4 +1,4 @@
-## this code is in script.js file
+## add this code in script.js file
 ```
 function init(){
 
