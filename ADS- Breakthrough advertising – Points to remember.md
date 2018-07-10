@@ -1,21 +1,39 @@
 The desire should already exist – Page 11
+
 Every new advertisement should be fresh new problem that never existed on the face of this earth.
+
 Copy cannot create desire for the product. Your copy could only focus the existing desires onto that particular product. In other words a copy writer should channel the existing desire onto that particular product.  – Page 19. Read an example on page 20. What happens when you create an ad against the mass desire?
+
 Desire is nothing but a private want.
+
 We should only address our ads to individuals – Page 20
+
 If a private desire is shared by a statistically significant number of people a market is born. – Page 21
+
 All these private wants take years to develop, and they are created b\ social, economic and technological forces. Page 21
+
 Simply direct this mass existing desire or economic force onto the product. When you try to create that desire it is no longer advertising but education.
+
 A copywriters job is to create a fresh appeal and to build a stronger believability to the product he is advertising. – Page 22
+
 A copywriter offers the same claim of relief as his competitors but in a different way.
+
 A copywriter should stress any appeal that are built into that product. He should stress the same in his copy writing.
+
 Thus a copywriters job is to detect the mass existing desire and change their force and direction.
+
 Every desire has 3 vital dimensions – urgency, intensity, degree of demand to be satisfied and you use the most powerful desire in all three dimensions as your headline. Your job is to provide satisfaction to that desire in a single statement. – Page 24
+
 All customers can be classified in to three types.  Page 24
+
 – People who are aware of your product and realizes it can satisfy their desire – in this case headline starts               with the product
+
 – People who are aware of your product, but only of the desire – here your headline starts with desire
+
 – People who are not aware of really what he seeks but is only concerned with a general problem – your                   headline starts with the problem and crystallizes into a specific need.
+
 To satisfy the desire, mention only the functional aspect of the product – the product in action – the series of benefits that your product performs for your consumer and on the basis of which he buys your product. Do not mention the physical aspect of the product eg. steel in car, the glass in a vase, the tobacco in a cigarette, or the paper in a book.  – Page 25
+
 Your product, in order to pull sales away from them, must introduce a new mechanism that performs the claim, or a new quality that assures its performance, or a new freedom from old limitations that improves the performance.Examples:
 
 1. Our TV has more tubes in the television set
@@ -141,9 +159,12 @@ Now the above desire is called amorphous desire. Amorphous desires means a desir
 If the desire is amorphous you will have to find 3 attributes and they are as follows
 
 Analysis: Identify the driving emotional forces that have created both that market and the potential for the sales of your product within it.
+
 Intuition: Identify the trend at its start, gauge its force and direction and determine the precise moment when it boom or skyrocket into a profitable market.
+
 Verbal creativity: The ability to give a name to the still-undefined market.
-examples on how amorphous desire has been crystallized in the headline.
+
+Examples on how amorphous desire has been crystallized in the headline.
 
 “Now! Run your car without spark plugs”
 “Who ever heard of 17,000 />/<>om* ironi a single plant0″
@@ -151,3 +172,5 @@ examples on how amorphous desire has been crystallized in the headline.
 Sometimes desire itself must be reinforced by fresh proof that it can be achieved, ”
 
 20,679* physicians say “LUCKIES are less irritating”
+
+
