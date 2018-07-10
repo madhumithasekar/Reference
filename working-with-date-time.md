@@ -1,4 +1,7 @@
+The below code prints the time
+
 ```javascript
+
 document.addEventListener('DOMContentLoaded, function(){
    var c= document.getElementById('current-time');
 
