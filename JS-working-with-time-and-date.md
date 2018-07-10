@@ -1,7 +1,7 @@
 ## To print Time
 ```javascript
 
-document.addEventListener('DOMContentLoaded, function(){
+document.addEventListener('DOMContentLoaded', function(){
    var c= document.getElementById('current-time');
 
    var d = new Date();
