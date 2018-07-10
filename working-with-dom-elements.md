@@ -101,3 +101,67 @@ returs
 <input type="radio" value="usps" name="r_method" id="r-method-usps">,
 <input type="radio" value=ups" name="r_method" id="r-method-ups">
 ```
+
+## Working with Select boxes
+
+```
+<select id="s-state">
+  <option value="volvo">Volvo car</option>
+  <option value="saab">Saab car</option>
+  <option value="mercedes">Mercedes car</option>
+  <option value="audi">Audi car</option>
+</select>
+```
+
+How to access the value of a select box
+
+```javascript
+    
+    document.getElementById('s-state').value
+ 
+```
+
+returns the current selected value in select box
+
+returns -> Volvo if selected in the check box
+
+you can also assign values
+
+```javascript
+   document.getElementById('s-state').value = "audi"
+``` 
+
+If you want to return all the options of a list box you can use the code below
+
+```javascript
+   document.getElementById('s-state').options
+```
+
+returns
+
+```
+  <option value="volvo">Volvo car</option>
+  <option value="saab">Saab car</option>
+  <option value="mercedes">Mercedes car</option>
+  <option value="audi">Audi car</option>
+```
+
+If you want to return the selectedIndex of a select box like 1 for volvo, 2 for saab 3 for mercedes, use the code below
+
+```javascript
+document.getElementById('s-state').selectedIndex 
+```
+
+returns -> 1 if Volvo is selected, returns 2 if saab is selected and so on
+
+You can use options and selectedIndex together if value is not available in certain browsers
+
+```javascript
+  
+var selectedIdx = document.getElementById('s-state').selectedIndex;
+var selectedValue = document.getElementById('s-state').option[selectedIdx].value;
+
+```
+
+### Working with Radio buttons and check boxes
+
