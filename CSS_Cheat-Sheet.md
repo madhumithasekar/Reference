@@ -179,9 +179,11 @@ For background colors and text colors, use grey colors
 
 If you want to mix and match different base colors then you can use the tool below. It will recommend different colors which will look nice
 
-For information on how to use the color wheel you can check YouTube
+For information on how to use the color wheel you can check the below YouTube video
 
 https://color.adobe.com/create/color-wheel/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fuF3foDjHwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 They also have a set of color schmes i.e a set of color sets which are to be used in combination. Find the link below
 
