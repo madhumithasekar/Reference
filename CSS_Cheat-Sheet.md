@@ -279,3 +279,22 @@ When using this grid we will be using only one value in px and rest we would be 
 
 ---
 
+## Elements in HTML
+
+HTML 5 has elements like 
+
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| <article>     |               |
+| <aside>       |               |
+| <details>     |               |
+| <figcaption>  |               |
+| <figure>      |               |
+| <footer>      |               |
+| <header>      |               |
+| <main>        |               |
+| <mark>        |               |
+| <nav>         |               |
+| <section>     |               |
+| <summary>     |               |
+| <time>        |               |
