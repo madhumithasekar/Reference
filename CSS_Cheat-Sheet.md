@@ -33,6 +33,6 @@ Block elements are stacked vertically one after another.
 
 Inline elements are stacked vertically one aside another. 
 
-
+![alt text](images/block-inline-elements.jpg.jpg "Box Sizing Images")
 
 
