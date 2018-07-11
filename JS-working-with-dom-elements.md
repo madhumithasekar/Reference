@@ -33,6 +33,8 @@ document.getElementById('txt-a-bball').value = 4
 
 ```
 
+---
+
 ## Working with forms
 
 //If you want to print all the forms on the page, then use this
@@ -82,6 +84,8 @@ returns
 
 ```
 
+---
+
 ## How to access dom element which does not have an id but has a name element
 
 eg: 
@@ -101,6 +105,8 @@ returs
 <input type="radio" value="usps" name="r_method" id="r-method-usps">,
 <input type="radio" value=ups" name="r_method" id="r-method-ups">
 ```
+
+---
 
 ## Working with Select boxes
 
@@ -163,6 +169,8 @@ var selectedValue = document.getElementById('s-state').option[selectedIdx].value
 
 ```
 
+---
+
 ### Working with Radio buttons and check boxes
 
 #### Checkboxes
@@ -222,6 +230,8 @@ document.querySelectorAll('input[name=r_method]') -> returns
 <input type="radio" value = "ups" name="r_method" id ="r-method-ups">
 ```
 
+---
+
 ### Adding event listener
 
 This code is used in situations like when a button is clicked. You can pretty much add an event listener to any element in DOM
@@ -259,6 +269,8 @@ function estimateTotal (event){
 }
 ```
 
+---
+
 ### How to validate input
 
 ```javascript
@@ -280,6 +292,8 @@ You can also use the below HTML code instead of using focus()
 ```
 <select id="s-state" required>...</state>
 ```
+
+---
 
 ### DOM Loading !important
 
@@ -314,6 +328,8 @@ $(function(){
 
 ```
 
+---
+
 ### Disable a button in javascript
 
 ```javascript
@@ -339,6 +355,8 @@ document.addEventListener('DOMContentLoaded', function(){
        });
   });
 ```
+
+---
 
 ## To get the elements of DIV -> use innerHTML
 
