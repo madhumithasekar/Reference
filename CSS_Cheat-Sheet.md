@@ -183,7 +183,7 @@ For information on how to use the color wheel you can check the below YouTube vi
 
 https://color.adobe.com/create/color-wheel/
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fuF3foDjHwc" target="_blank"><img src="http://img.youtube.com/vi/fuF3foDjHwc/0.jpg" alt="Adobe Color Wheel" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fuF3foDjHwc" target="_blank"><img src="http://img.youtube.com/vi/fuF3foDjHwc/0.jpg" alt="Adobe Color Wheel" width="560" height="315" border="10" /></a>
 
 They also have a set of color schmes i.e a set of color sets which are to be used in combination. Find the link below
 
