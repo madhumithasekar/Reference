@@ -282,9 +282,7 @@ When using this grid we will be using only one value in px and rest we would be 
 ## Elements in HTML
 
 HTML 5 has elements like 
-
-| HTML Elements       |   STRUCTURE           | 
-| ------------- |:-------------:| 
+ 
 |   `<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")  |
      <aside>                       
      <details>                   
