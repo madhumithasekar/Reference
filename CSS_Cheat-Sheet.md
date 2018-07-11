@@ -163,7 +163,7 @@ Note: When you increase the font size always decrease the font weight of the tex
 
 ---
 
-## Color combination in CSS
+## Color combination in Web Design
 
 To choose a color for your website first go to the website below
 
@@ -194,3 +194,6 @@ Note:
    * Use the second and third color to compliment the main color
 
    * Never use black in your design
+   
+ ---
+ 
