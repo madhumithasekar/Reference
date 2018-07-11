@@ -126,9 +126,9 @@ img{
 
 ---
 
-## Typography
+## Typography - Fonts and Line Spacing
 
-Rules:
+### Rules:
 
 1. Use a font size of 15px - 25px for body text
 
