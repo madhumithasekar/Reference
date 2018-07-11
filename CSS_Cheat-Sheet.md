@@ -285,7 +285,7 @@ HTML 5 has elements like
 
 | HTML Elements       |   STRUCTURE           | 
 | ------------- |:-------------:| 
-| ```<article>```   |   ![HTML Elements](images/img_sem_elements.gif "image-box")|
+| ```<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")|
  <aside>                      
  <details>                   
  <figcaption>                 
