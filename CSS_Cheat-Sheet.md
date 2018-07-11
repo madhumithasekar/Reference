@@ -285,9 +285,9 @@ HTML 5 has elements like
 
 | Tables        | Are           | 
 | ------------- |:-------------:| 
-| <article>     |               |
-| <aside>       |               |
-| <details>     |               |
+| <article>     |           dssd    |
+| <aside>       |    sdsd           |
+| <details>     |      sdsd         |
 | <figcaption>  |               |
 | <figure>      |               |
 | <footer>      |               |
