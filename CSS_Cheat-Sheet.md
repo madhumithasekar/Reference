@@ -285,8 +285,8 @@ HTML 5 has elements like
 
 | HTML Elements       |   STRUCTURE           | 
 | ------------- |:-------------:| 
-| ```<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")  |
-     <aside>                      
+| ]<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")  |
+     <aside>                       
      <details>                   
      <figcaption>                 
      <figure>                     
@@ -296,5 +296,5 @@ HTML 5 has elements like
      <mark>                       
      <nav>                       
      <section>                    
-    <summary>                    
-     <time>```                     
+     <summary>                    
+     <time>`                   
