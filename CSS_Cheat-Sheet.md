@@ -55,6 +55,7 @@ Steps:
    margin-right: auto;
 }
 ```
+![alt text](images/centeranything-4.jpg "Centering a DIV")
 ---
 
 
