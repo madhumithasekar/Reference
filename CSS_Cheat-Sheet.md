@@ -20,9 +20,12 @@ All browsers set default margins for HTML elements if we dont specify any. To re
 
 In HTML there are block elements and inline elements
 
+```
 <h1> and <p> tags are examples of block elements. 
 
 <img> <a href>, <strong> and <em> are examples of inline elements. 
+
+```
 
 You cannot set height and width for inline elements.
 
