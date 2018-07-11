@@ -69,7 +69,7 @@ After giving float:left then it would look like this but see the yellow box also
 
 To resolve such issue use clearfix property shown below
 
-![alt text](images/float-left-2.png "floating a DIV")
+![alt text](images/float-left-3.png "floating a DIV")
 
 ```
   .clearfix:after {
