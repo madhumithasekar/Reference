@@ -143,9 +143,9 @@ Note: When you increase the font size always decrease the font weight of the tex
 
 ### Fonts
 
-1. you can either use sans-serif fonts or serif fonts
+1. You can either use sans-serif fonts or serif fonts
   
-   some very good sans-serif fonts
+   **Some very good sans-serif fonts**
 
   * Open Sans
   * Lato
@@ -153,7 +153,7 @@ Note: When you increase the font size always decrease the font weight of the tex
   * Monsterrat
   * PT sans
 
-  some very good serif fonts
+  **Some very good serif fonts**
 
   * Cardo
   * Merriweather
