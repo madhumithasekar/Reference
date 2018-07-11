@@ -56,6 +56,24 @@ Steps:
 }
 ```
 ![alt text](images/centeranything-4.jpg "Centering a DIV")
+
+---
+
+### Understanding the float and clearfix property
+
+![alt text](images/float-left-1.png "floating a DIV")
+
+![alt text](images/float-left-2.png "floating a DIV")
+
+```
+  .clearfix:after {
+   content: "",
+   display: table;
+   clear: both;
+}
+
+```
+
 ---
 
 
