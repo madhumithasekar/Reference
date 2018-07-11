@@ -283,18 +283,18 @@ When using this grid we will be using only one value in px and rest we would be 
 
 HTML 5 has elements like 
 
-| Tables        | Are           | 
+| HTML Elements       |              | 
 | ------------- |:-------------:| 
-| ```<article>```     |           dssd    |
-| <aside>       |    sdsd           |
-| <details>     |      sdsd         |
-| <figcaption>  |               |
-| <figure>      |               |
-| <footer>      |               |
-| <header>      |               |
-| <main>        |               |
-| <mark>        |               |
-| <nav>         |               |
-| <section>     |               |
-| <summary>     |               |
-| <time>        |               |
+| ```<article>```     |               |
+| ```<aside>```       |               |
+| ```<details>```     |               |
+| ```<figcaption>```  |               |
+| ```<figure>```      |               |
+| ```<footer>```      |               |
+| ```<header>```      |               |
+| ```<main>```        |               |
+| ```<mark>```        |               |
+| ```<nav>```         |               |
+| ```<section>```     |               |
+| ```<summary>```     |               |
+| ```<time>```        |               |
