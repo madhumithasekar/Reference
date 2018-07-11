@@ -286,15 +286,15 @@ HTML 5 has elements like
 | HTML Elements       |   STRUCTURE           | 
 | ------------- |:-------------:| 
 | ```<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")|
-     <aside>                      
-     <details>                   
-     <figcaption>                 
-     <figure>                     
-     <footer>                     
-     <header>                     
-     <main>                       
-     <mark>                       
-     <nav>                       
-     <section>                    
-     <summary>                    
-     <time>```                     
+|     <aside>                      
+|     <details>                   
+|     <figcaption>                 
+|     <figure>                     
+|     <footer>                     
+|     <header>                     
+|     <main>                       
+|     <mark>                       
+|     <nav>                       
+|     <section>                    
+|     <summary>                    
+|     <time>```                     
