@@ -92,6 +92,8 @@ img{
    width: auto;
 }
 ```
+
+---
  
 ## Postion: absolute and position: relative
 
@@ -121,4 +123,6 @@ img{
      </div>
 
 ```
+
+---
 
