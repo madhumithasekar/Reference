@@ -147,17 +147,17 @@ Note: When you increase the font size always decrease the font weight of the tex
   
    some very good sans-serif fonts
 
-  Open Sans
-  Lato
-  Raleway
-  Monsterrat
-  PT sans
+  * Open Sans
+  * Lato
+  * Raleway
+  * Monsterrat
+  * PT sans
 
   some very good serif fonts
 
-  Cardo
-  Merriweather
-  PT Serif
+  * Cardo
+  * Merriweather
+  * PT Serif
 
   You can also mix sans-serif fonts for body and serif fonts for heading
 
