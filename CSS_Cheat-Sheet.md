@@ -283,7 +283,7 @@ When using this grid we will be using only one value in px and rest we would be 
 
 HTML 5 has elements like 
  
-|   `<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")  |
+|   ```<article>   |   ![HTML Elements](images/img_sem_elements.gif "image-box")  |
      <aside>                       
      <details>                   
      <figcaption>                 
@@ -295,4 +295,4 @@ HTML 5 has elements like
      <nav>                       
      <section>                    
      <summary>                    
-     <time>`                   
+     <time>```                   
