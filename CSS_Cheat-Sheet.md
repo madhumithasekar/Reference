@@ -1,4 +1,4 @@
-### Remove default margins 
+## Remove default margins 
 
 All browsers set default margins for HTML elements if we dont specify any. To remove the default margins use the below code
 
@@ -10,7 +10,7 @@ All browsers set default margins for HTML elements if we dont specify any. To re
 }
 ```
 
-### What is box sizing?
+## What is box sizing?
 
 ![alt text](images/box-sizing.jpg "Box Sizing Images")
 
@@ -37,7 +37,7 @@ Inline elements are stacked vertically one aside another.
 
 ---
 
-###  Using the container.
+##  Using the container.
 
 Put all the elements inside a container and set the container like this
 
@@ -59,7 +59,7 @@ Steps:
 
 ---
 
-### Understanding the float and clearfix property
+## Understanding the float and clearfix property
 
 ![alt text](images/float-left-1.png "floating a DIV")
 
@@ -82,5 +82,16 @@ To resolve such issue use clearfix property shown below
 
 ---
 
+## Working with Images
+
+When you put an image use the below css. auto is used to maintain the aspect ratio of the image
+
+```
+img{
+   height: 150px;
+   width: auto;
+}
+```
+ 
 
 
