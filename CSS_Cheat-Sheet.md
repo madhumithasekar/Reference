@@ -316,9 +316,9 @@ When using this grid we will be using only one value in px and rest we would be 
   
   ![Final Result](images/header-final.png "Final Result")
   
-  ### STEP 1: <header> tag
+  ### STEP 1: ```<header>``` tag
 
- We will put everything inside <header> DIV
+ We will put everything inside ```<header>``` DIV
 
 ```
 <header> 
@@ -329,7 +329,7 @@ When using this grid we will be using only one value in px and rest we would be 
 
 ### STEP 2: Container
 
- Now we will create a container inside the <header> tag
+ Now we will create a container inside the ```<header>``` tag
 
 ```
 <header>
@@ -343,7 +343,7 @@ When using this grid we will be using only one value in px and rest we would be 
 
 ### STEP 3: H1 tag
 
- Now we will put <h1> inside the container
+ Now we will put ```<h1>``` inside the container
 
 ```
 <header>
@@ -359,7 +359,7 @@ When using this grid we will be using only one value in px and rest we would be 
 
 ### STEP 4: BUTTONS
 
- Now we need two buttons inside the container. For buttons we will use <a href> tag
+ Now we need two buttons inside the container. For buttons we will use ```<a href>``` tag
 
 ```
  <header>	
