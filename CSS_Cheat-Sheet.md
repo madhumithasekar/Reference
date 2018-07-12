@@ -350,7 +350,7 @@ When using this grid we will be using only one value in px and rest we would be 
 	
 	<div class="hero-text-box">
        
-       <h1>Goodbye junk food. Hello super healthy meals.</h1>
+          <h1>Goodbye junk food. Hello super healthy meals.</h1>
  
 	</div>
 
@@ -362,14 +362,12 @@ When using this grid we will be using only one value in px and rest we would be 
  Now we need two buttons inside the container. For buttons we will use <a href> tag
 
 ```
- <header>
-	
-	<div class="hero-text-box">
-       
+ <header>	
+   <div class="hero-text-box">       
        <h1>Goodbye junk food. Hello super healthy meals.</h1>
        <a href="#">I'm hungry</a> 
        <a href="#">Show me more</a>
-	</div>
+   </div>
 
 </header>
 ```
