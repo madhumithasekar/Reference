@@ -497,3 +497,24 @@ It is also a good practise to give ```transform: translate(-50%, -50%)``` along 
 Now the text would be nicely centered and it will look like this.
 
 ![Image Text](images/text.png "Image Text")
+
+### Setting Contrast 
+
+Now if you see the above image text on the image does not look good. As mentioned in the earlier chapter to make text look good on images one way is to put a black transparent background on the image and put a white color text on it.
+
+ #### Adding gradient:
+
+Now we have already learned from the earlier chapter image on text will look good only if the image is transparent or out-of-focus etc and text should be white. So now lets add a transparent overlay on top of the image like this.
+
+```
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(hero.jpg);
+	background-size:cover;
+	background-position: center;
+	height: 100vh; //means 100% of the view port
+}
+```
+
+Now this will look like this
+
+![Image Cover](images/transparent-image.png "Image Cover")
