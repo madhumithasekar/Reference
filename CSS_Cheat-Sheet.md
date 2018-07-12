@@ -535,7 +535,7 @@ Now this will look like this
     In responsive design eveything should be mentioned in percentages and only in the global scope we should mention pixels. So the global scope is the below code
     
     ```
-      html {
+     html {
  	background-color: #fff;
  	color: #555;
 	font-family: 'Lato', 'Arial', sans-serif;
