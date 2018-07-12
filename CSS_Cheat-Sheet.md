@@ -552,18 +552,18 @@ Now this will look like this
   
 Now remember as in the earlier chapters when the font-size is big decrease the font-weight. Usually ```<h1>``` tag comes with bold formatting.
    
-  ```
+```
       h1{
           color: #fff;
 	  font-size: 200%  // Refer what are good font sizes for heading in the earlier chapters.
 	  font-weight: 300;
       }
    
-  ```
+```
    
    Other things that you can do to make ```<h1>``` look better
    
-     ```
+```
       h1{
           color: #fff;
 	  font-size: 200%  // Refer what are good font sizes for heading in the earlier chapters.
@@ -573,7 +573,7 @@ Now remember as in the earlier chapters when the font-size is big decrease the f
 	  word-spacing: 3px; //letters between words
       }
    
-  ```
+```
   
 ### Designing the buttons
 
@@ -590,7 +590,7 @@ Now to design the buttons let us add a css class like this. You can also copy an
 </header>
 ```
 
-//this is the common button style for any buttons
+This is the common button style for any buttons
 
 Note: Link is the default state so hence we are changing .btn to .btn:link
 
