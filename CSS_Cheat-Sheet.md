@@ -296,7 +296,9 @@ When using this grid we will be using only one value in px and rest we would be 
      <nav>                       
      <section>                    
      <summary>                    
-     <time>```   
+     <time>
+   
+   ```   
 ---
 
 ## Building the header part
