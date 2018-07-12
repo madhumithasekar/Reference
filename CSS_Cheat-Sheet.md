@@ -462,3 +462,38 @@ Now the image will look like this
 So now even if you resize the browser window the whole image would scale down and be properly shown in the screen.
 
 ### Working with Text on images
+
+Now lets see how to place text on images properly
+
+```
+ <header>
+	
+	<div class="hero-text-box">
+       
+       <h1>Goodbye junk food. Hello super healthy meals.</h1>
+       <a href="#">I'm hungry</a> 
+       <a href="#">Show me more</a>
+	</div>
+
+</header>
+```
+
+Always give width for the textbox. 
+Then if you want to move the textbox DIV give ```position:absolute``` along with ```top:0``` or ```left:0``` or ```right:0``` or ```bottom:0```
+
+It is also a good practise to give ```transform: translate(-50%, -50%)``` along with ```position:absolute``` and ```top/left/right/bottom```. ```transform:translate``` has better performance than using ```top/left/right/bottom```
+
+```
+.hero-text-box {
+   position: absolute;
+   width: 1140px;
+   top:50%;
+   left:50%;
+   transform: translate(-50%, -50%);
+}
+
+```
+
+Now the text would be nicely centered and it will look like this.
+
+![Image Text](images/text.png "Image Text")
