@@ -575,12 +575,12 @@ Now remember as in the earlier chapters when the font-size is big decrease the f
    
   ```
   
-   ### Designing the buttons
+### Designing the buttons
 
 Now to design the buttons let us add a css class like this. You can also copy and paste the below code if required. All buttons are designed more or less the same way.
 
- ```
- <header>	
+```
+<header>	
    <div class="hero-text-box">       
        <h1>Goodbye junk food. Hello super healthy meals.</h1>
        <a class="btn btn-full" href="#">I'm hungry</a> 
