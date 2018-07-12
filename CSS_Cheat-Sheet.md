@@ -311,5 +311,5 @@ When using this grid we will be using only one value in px and rest we would be 
   * Placing navigation on the image 
 
   ### Result:
-
-     ![Final Result](images/header-final.png "Final Result")
+  
+      ![Final Result](images/header-final.png "Final Result")   
