@@ -283,7 +283,8 @@ When using this grid we will be using only one value in px and rest we would be 
 
 ![HTML Elements](images/img_sem_elements.gif "image-box")
 
-  ```<article>        
+  ```
+  <article>        
      <aside>                       
      <details>                   
      <figcaption>                 
@@ -295,4 +296,20 @@ When using this grid we will be using only one value in px and rest we would be 
      <nav>                       
      <section>                    
      <summary>                    
-     <time>```                   
+     <time>```   
+---
+
+## Building the header part
+
+  ### Final output:
+
+  We will be creating the below output.
+
+  * Placing image in the header section
+  * Placing main text on the image
+  * Placing 2 buttons on the image
+  * Placing navigation on the image 
+
+  ### Result:
+
+     ![Final Result](images/header-final.png "Final Result")
