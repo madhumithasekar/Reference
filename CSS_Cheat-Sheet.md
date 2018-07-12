@@ -574,4 +574,178 @@ Now remember as in the earlier chapters when the font-size is big decrease the f
       }
    
   ```
+  
+   ### Designing the buttons
+
+Now to design the buttons let us add a css class like this. You can also copy and paste the below code if required. All buttons are designed more or less the same way.
+
+ ```
+ <header>	
+   <div class="hero-text-box">       
+       <h1>Goodbye junk food. Hello super healthy meals.</h1>
+       <a class="btn btn-full" href="#">I'm hungry</a> 
+       <a class="btn btn-ghost" href="#">Show me more</a>
+   </div>
+
+</header>
+```
+
+//this is the common button style for any buttons
+
+Note: Link is the default state so hence we are changing .btn to .btn:link
+
+```
+.btn:link {
+   display: inline-block;
+   padding: 10px 30px;
+   font-weight: 300px;
+   text-decoration: none; //this is used to remove underline from <a> tag
+   border-radius: 200px; // to get a curved button on all borders
+   
+}
+```
+
+```
+.btn-full{
+	background-color: #e67e22; //get the color code from flatuicolors.com
+	border: 1px solid #e67e22;
+	color: #fff -> // to change the text color on the button to white
+}
+```
+
+```  
+.btn-ghost{
+   border: 1px solid #e67e22;
+   color: #e67e22;
+}
+
+```
+
+Every button has four states also called as pseudo states. They are as follows
+
+* Link - Link is the default state
+* Visited
+* active - When we click on a button
+* hover - When we put mouse on a button
+
+ ### Link and Visited:
+
+Here both link and visited has the same style. So you can use the below code
+
+  #### Writing for link and visited
+
+```
+.btn:link,
+.btn:visited {
+   display: inline-block;
+   padding: 10px 30px;
+   font-weight: 300px;
+   text-decoration: none; //this is used to remove underline from <a> tag
+   border-radius: 200px; // to get a curved button on all borders
+   transition: background-color 0.2s, border 0.2s, color 0.2s // this will create an animation effect to the button and change the background-color, border and font-color slowly
+}
+```
+
+
+```
+.btn-full:link,
+.btn-full:visited{
+	background-color: #e67e22; //get the color code from flatuicolors.com
+	border: 1px solid #e67e22;
+	color: #fff -> // to change the text color or font color on the button to white
+	margin-right: 15px;
+}
+```
+
+```  
+.btn-ghost:link,
+.btn-ghost:visited{
+   border: 1px solid #e67e22;
+   color: #e67e22; // to change the text color or font color
+}
+
+```
+
+ #### Writing for hover and active
+
+```
+.btn:hover,
+.btn:active {
+	background-color: #cf6d17; //get a darker shade of original button color. Use the 0-255 color tool here
+}
+
+```
+
+```
+.btn-full:hover,
+.btn-full:active{
+	border: 1px solid #e67e22;
+}
+```
+
+```  
+.btn-ghost:hover,
+.btn-ghost:active{
+   border: 1px solid #e67e22;
+   color: #fff; // to change the text color or font color
+}
+
+```
+
+#### What are block level elements and Inline elements?
+
+```<h1>``` is a block level element by default
+```<span>, <a>``` etc. is a inline level element.
+
+Now lets take this ```<h1>``` tag
+
+```<h1>This is a simple text</h1>```
+
+The above ```<h1>``` tag is a block level element and it will take full width of the browser or parent DIV.
+
+Now if you make it like this
+
+```<h1>This is a <span>simple<span> text</h1>```
+
+and if you write the CSS as
+
+```
+span{
+	display: block;
+}
+```
+
+The above text would be printed like this
+
+This is a - Line 1
+Simple - Line 2
+text - Line 3
+
+Now ```<span> simple </span>``` is a block level element and it will take full width of the parent DIV thus takes the next line and "text" is moved to the third line.
+
+Inline element do not take full width rather it takes only the corresponding text width.
+
+For a block level element you can mention width and height as well as margin and padding, left, right, top and bottom.
+
+Inline elements by default do not take any sort of width and you cannot assign them a width like shown below
+
+```
+span{
+	width: 100% -> this is wrong and nothing will happen here
+}
+```
+
+Inline elements also cannot have height, margin, top, bottom or padding.
+
+So for an inline element if you want to set padding and margin, set it as inline-block.
+
+eg:
+
+```
+span{
+	display: inline-block; // not you can set margin, padding etc
+}
+```
+
+It also dosen't force a line break since all block level elements will force a line break since it takes full width.
    
