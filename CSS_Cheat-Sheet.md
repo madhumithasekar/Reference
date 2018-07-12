@@ -243,6 +243,7 @@ You can always set the default font like this
 html {
 font-family: 'Lato', 'Arial', sans-serif;
 font-weight: 300;
+font-size: 20px;
 text-rendering: optimizeLegibility;  //using this is a good practise
 }
 
@@ -518,3 +519,32 @@ header{
 Now this will look like this
 
 ![Image Cover](images/transparent-image.png "Image Cover")
+
+  #### Making changes to the font
+  
+   ```
+      h1{
+          color: #fff;
+	  font-size: 200%  // Refer what are good font sizes for heading in the earlier chapters.
+      }
+   
+   ```
+
+   #### So how 200%?
+   
+    In responsive design eveything should be mentioned in percentages and only in the global scope we should mention pixels. So the global scope is the below code
+    
+    ```
+      html {
+ 	background-color: #fff;
+ 	color: #555;
+	font-family: 'Lato', 'Arial', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	text-rendering: optimizeLegibility;  //using this is a good practise
+     }
+    
+    ```
+    
+    So when you say ```font-size:200%``` it refers to 200% of ```font-size:20px```
+    
