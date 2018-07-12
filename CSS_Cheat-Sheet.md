@@ -546,5 +546,32 @@ Now this will look like this
     
     ```
     
-    So when you say ```font-size:200%``` it refers to 200% of ```font-size:20px```
+    So when you say font-size:200% it refers to 200% of font-size:20px
     
+  #### Decrease the font weight
+  
+Now remember as in the earlier chapters when the font-size is big decrease the font-weight. Usually ```<h1>``` tag comes with bold formatting.
+   
+  ```
+      h1{
+          color: #fff;
+	  font-size: 200%  // Refer what are good font sizes for heading in the earlier chapters.
+	  font-weight: 300;
+      }
+   
+  ```
+   
+   Other things that you can do to make ```<h1>``` look better
+   
+     ```
+      h1{
+          color: #fff;
+	  font-size: 200%  // Refer what are good font sizes for heading in the earlier chapters.
+	  font-weight: 300;
+	  text-transform: uppercase;
+	  letter-spacing: 1px;  // so the letters don't look very compressed
+	  word-spacing: 3px; //letters between words
+      }
+   
+  ```
+   
