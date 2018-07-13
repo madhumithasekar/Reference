@@ -9,6 +9,7 @@
 * [What fonts to use in your website](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-fonts.md)
 * [CSS absolute and relative positioning](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-positioning-absolute-relative.md)
 * [Setting default styles in CSS](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
+* [How to use pseudo class in CSS](https://github.com/jeriljose/Reference/blob/gh-pages/Using-pseudo-class.md)
 
 ## Introduction: Setting up the container and default styles
 
