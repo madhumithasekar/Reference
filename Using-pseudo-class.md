@@ -1,11 +1,12 @@
 ## How to use pseudo class
 
-Suppose there is a <h2> tag
+Suppose there is a ```<h2>``` tag
 
   <h2>How are you</h2> If you want to put a small line below this text.
 
   you can do it like shown below
 
+```
 h2:after{
    display:block;
    height: 2px;
@@ -15,3 +16,4 @@ h2:after{
    margin: 0 auto; //to center the line
    margin-top: 30px; //margin between the h2 tag and the small line
 }
+```
