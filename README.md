@@ -24,6 +24,8 @@
 * [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
 
 
+---
+
 # JAVASCRIPT
 
 ## Reference Materials
