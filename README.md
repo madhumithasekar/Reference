@@ -10,12 +10,12 @@
 * [CSS absolute and relative positioning](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-positioning-absolute-relative.md)
 * [Setting default styles in CSS](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
 
-## Introduction: 
+## Introduction: Setting up the container and default styles
 
 * [Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
 * [Setting the container](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-the-container.md)
 
-## Header Section
+## Designing the Header Section
 * [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
 * Placing image in the header section
 * [Placing text on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Text-on-images.md)
