@@ -1,2 +1,5 @@
-# Reference
-Contains Javascript Reference Materials
+# CSS
+
+Introduction: 
+
+STEP 1:
