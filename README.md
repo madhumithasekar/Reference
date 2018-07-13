@@ -13,3 +13,4 @@ STEP 1:
 * Placing main text on the image
 * Placing 2 buttons on the image
 * [Designing buttons on the image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-buttons.md)
+* [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
