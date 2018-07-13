@@ -22,3 +22,21 @@
 * Placing 2 buttons on the image
 * [Designing buttons on the image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-buttons.md)
 * [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
+
+
+# JAVASCRIPT
+
+## Reference Materials
+
+
+## Code Samples
+
+* [How to organize Javascript code using closures](https://github.com/jeriljose/Reference/blob/gh-pages/JS-closure.md)
+* Javascript DOM Traversal
+   * [How to access values of a Text field](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#working-with-text-fields)
+   * [How to access the values of a form](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#working-with-forms)
+   * [How to access the values of a selectbox](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#working-with-select-boxes)
+   * [How to access the values of Radio button and checkboxes](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#working-with-radio-buttons-and-check-boxes)
+   * [How to execute code when a event occurs](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#adding-event-listener)
+   * [How to disable a button in Javascript](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#disable-a-button-in-javascript)
+   * [How to set and get elements of a DIV using innerHtml](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#to-get-the-elements-of-div---use-innerhtml)
