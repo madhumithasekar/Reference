@@ -2,9 +2,8 @@
 
 ## Introduction: 
 
-[Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
-
-[Setting the container](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-the-container.md)
+* [Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
+* [Setting the container](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-the-container.md)
 
 ## Header Section
 * [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
