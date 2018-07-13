@@ -8,11 +8,13 @@ Output:
 
 Now the header part is over
 
+```
 <header> 
   
   ...//code here
   
 </header>
+```
 
 HTML has an element called section. 
 
@@ -20,6 +22,7 @@ Now lets design the HTML for the above layout
 
 We also use icons from http://ionicons.com. To use ionicons download ionicons.min.css and include it in css folder.Also download icon fonts of ionicons.
 
+```
 <section class="section-features">
  <div class="row">
     <h2>Get food fast &amdash; not fast food </h2>
@@ -67,3 +70,4 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
  </div>
 
 </section>
+```
