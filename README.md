@@ -24,7 +24,8 @@
 * [Designing buttons on the image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-buttons.md)
 * [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
 
-
+## Designing the Features Section
+* [Designing the features section](#)
 ---
 
 # JAVASCRIPT
