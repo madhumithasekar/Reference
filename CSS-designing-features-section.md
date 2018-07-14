@@ -159,7 +159,7 @@ h2 {
 }
 ```
 
-// /*----- Designing the .box section ------*/
+/*----- Designing the .box section ------*/
 
 ```
 .box{
