@@ -35,7 +35,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
    
    <!-- column 1 -->
     <div class="col span-1-of-4 box">
-      <i class="ion-heart"></i>
+      <i class="ion-ios-infinite-outline icon-big"></i>
       <h3>Up to 365 days/year</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
       </p>      
@@ -44,7 +44,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
      <!-- column 2 --> 
 
     <div class="col span-1-of-4 box">
-      <i class="alarm"></i>
+      <i class="ion-ios-stopwatch-outline icon-big"></i>
       <h3>Ready in 20 minutes</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
       </p>      
@@ -53,7 +53,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
      <!-- column 3 -->
 
      <div class="col span-1-of-4 box">
-      <i class="build"></i>
+      <i class="ion-ios-nutrition-outline icon-big"></i>
       <h3>100% organic</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
       </p>      
@@ -62,7 +62,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
     <!-- column 4 -->
 
     <div class="col span-1-of-4 box">
-      <i class="copy"></i>
+      <i class="ion-ios-cart-outline icon-big"></i>
       <h3>Order anything</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
       </p>      
