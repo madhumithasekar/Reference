@@ -32,8 +32,9 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
 
  <div class="row">
    <!-- refer grid.css, col and span-1-of-4 are set in those files -->
+   
    <!-- column 1 -->
-    <div class="col span-1-of-4">
+    <div class="col span-1-of-4 box">
       <i class="ion-heart"></i>
       <h3>Up to 365 days/year</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
@@ -42,7 +43,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
       
      <!-- column 2 --> 
 
-    <div class="col span-1-of-4">
+    <div class="col span-1-of-4 box">
       <i class="alarm"></i>
       <h3>Ready in 20 minutes</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
@@ -51,7 +52,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
 
      <!-- column 3 -->
 
-     <div class="col span-1-of-4">
+     <div class="col span-1-of-4 box">
       <i class="build"></i>
       <h3>100% organic</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
@@ -60,7 +61,7 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
 
     <!-- column 4 -->
 
-    <div class="col span-1-of-4">
+    <div class="col span-1-of-4 box">
       <i class="copy"></i>
       <h3>Order anything</h3>
       <p>Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style. 
