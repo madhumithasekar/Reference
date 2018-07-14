@@ -12,6 +12,14 @@ Note: When you increase the font size always decrease the font weight of the tex
 
 4. Use a line spacing of 120% and 150% of the font size. So if the font size is 15px use a line spacing of 15*120% = 18px
 
+5. One rule of typography for subheadline is if you have two lines the first line should not be very wide and the second have a smaller width than the first line. Both the first line and second line should be of the equal width. To achieve this you can use the 
+
+```
+   width: 
+   margin-left & margin-right:
+   
+```
+
 
 ### Fonts
 
