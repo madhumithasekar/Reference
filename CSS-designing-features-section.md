@@ -22,6 +22,8 @@ Now lets design the HTML for the above layout
 
 We also use icons from http://ionicons.com. To use ionicons download ionicons.min.css and include it in css folder.Also download icon fonts of ionicons.
 
+## HTML SECTION
+
 ```
 <section class="section-features">
  <div class="row">
@@ -72,3 +74,104 @@ We also use icons from http://ionicons.com. To use ionicons download ionicons.mi
 
 </section>
 ```
+
+## CSS SECTION
+
+Steps:
+
+## Step 1:
+
+/*-----------PUT THE GLOBAL STYLES ----------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ html {
+  background-color: #fff;
+  color: #555;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;  //using this is a good practise
+ }
+
+ /*-------- Styling the row -------*/
+
+.row {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+## Step 2:
+
+/*------ Styling the <section> -------*/
+
+section {
+  padding: 80px 0;
+}
+
+/*------ styling the <h2> tag -------*/
+
+h2 {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 180%;
+  word-spacing: 2px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/*-----to put a small line below the <h2> tag -----*/
+
+  h2:after {
+   display:block;
+   height: 2px;
+   background-color: #e67322;
+   content: " "; // this is mandatory. It refers to what content should be put
+   width: 100px;
+   margin: 0 auto; //to center the line
+   margin-top: 30px; //margin between the h2 tag and the small line
+}
+
+/*----- Designing the .long-copy ------*/
+
+.long-copy {
+  line-height: 145%;
+  width: 70%; 
+  margin-left: 15%;
+}
+
+// /*----- Designing the .box section ------*/
+
+.box{
+  padding: 1%;
+}
+
+/*----- Designing the <h3> element ------*/
+
+h3{
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 100%;
+  margin-bottom: 15px;
+}
+
+/*------- Designing all the paragraphs inside the box -------*/
+
+.box p{
+  font-size: 90%;
+  line-height: 145%;  
+}
+
+/*----- Designing the ICONS -------*/
+
+.icon-big {
+  font-size" 350%;
+  display: block;
+  color: #e67e22;
+  margin-bottom: 10px;
+}
