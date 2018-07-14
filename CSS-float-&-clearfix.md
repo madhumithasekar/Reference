@@ -24,8 +24,6 @@ To resolve such issue use clearfix property shown below
 /*---------------- SAMPLE CODE -------------------------------*/
 
 ```
-
-```
 	.div1{
 		float:left;
 		width:50%;
@@ -45,8 +43,6 @@ To resolve such issue use clearfix property shown below
 	}
 	
 ```
-
----
 
 
 /*-----------------------HTML CODE ---------------------*/
