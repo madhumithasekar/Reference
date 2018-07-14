@@ -21,7 +21,7 @@ To resolve such issue use clearfix property shown below
 
 ---
 
-/*---------------- SAMPLE CODE -------------------------------*/
+/*---------------- CSS CODE -------------------------------*/
 
 ```
 	.div1{
