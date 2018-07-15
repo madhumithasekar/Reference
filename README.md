@@ -27,7 +27,7 @@
 
 ## Designing the HOW IT WORKS SECTION
 * [Designing the how it works section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-how-it-works-section.md)
-* [How to align Image and ICON in the same line](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-align-image-text.md)
+* [How to align ICON and TEXT in the same line](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-align-image-text.md)
 
 ---
 
