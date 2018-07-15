@@ -62,7 +62,7 @@ When using this grid we will be using only one value in px and rest we would be 
 ```
 <head>
   <title></title>
-  <link rel="stylesheet" type="text/css" href="grid.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/jeriljose/Reference/gh-pages/grid.css">
   <link rel="stylesheet" type="text/css" href="https://necolas.github.io/normalize.css/8.0.0/normalize.css">
   <link rel="stylesheet" type="text/css" href="style.css">  
 </head>
