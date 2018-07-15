@@ -28,7 +28,7 @@
 * [Designing the features section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-features-section.md)
 
 ## Designing the HOW IT WORKS SECTION
-* [Designing the how it works section]()
+* [Designing the how it works section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-how-it-works-section.md)
 
 ---
 
