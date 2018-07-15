@@ -81,10 +81,9 @@ When using this grid we will be using only one value in px and rest we would be 
 }
 ```
 
-```
 
 /* ----------------------------GRID.CSS ----------------------------------- */
 
 
 
-```
+
