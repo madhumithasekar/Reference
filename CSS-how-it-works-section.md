@@ -1,3 +1,6 @@
+
+![How it works section](images/how-it-works.png "How it works section")
+
 /* -------------------------- HTML SECTION -------------------------------- */
 
 ```
