@@ -62,10 +62,11 @@ When using this grid we will be using only one value in px and rest we would be 
 ```
 <head>
   <title></title>
-  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/jeriljose/Reference/gh-pages/grid.css">
   <link rel="stylesheet" type="text/css" href="https://necolas.github.io/normalize.css/8.0.0/normalize.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/jeriljose/Reference/gh-pages/grid.css">  
+  <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">  
+  <link rel="stylesheet" type="text/css" href="style.css">
   <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" type="text/css" href="style.css">  
 </head>
 
 ```
