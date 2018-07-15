@@ -1,5 +1,7 @@
 ### Designing the buttons
 
+![Buttons](images/buttons.png "Buttons")
+
 Now to design the buttons let us add a css class like this. You can also copy and paste the below code if required. All buttons are designed more or less the same way.
 
 ```
