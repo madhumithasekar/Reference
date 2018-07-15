@@ -64,6 +64,7 @@ When using this grid we will be using only one value in px and rest we would be 
   <title></title>
   <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/jeriljose/Reference/gh-pages/grid.css">
   <link rel="stylesheet" type="text/css" href="https://necolas.github.io/normalize.css/8.0.0/normalize.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="style.css">  
 </head>
 
