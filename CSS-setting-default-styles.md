@@ -47,6 +47,7 @@ When using this grid we will be using only one value in px and rest we would be 
 
 /* ---------------------------HTML SECTION --------------------------------- */
 
+```
 <head>
   <title></title>
   <link rel="stylesheet" type="text/css" href="grid.css">
