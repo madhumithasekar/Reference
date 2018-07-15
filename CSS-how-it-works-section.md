@@ -1,4 +1,4 @@
-/********************** HTML SECTION *****************************/
+/* -------------------------- HTML SECTION -------------------------------- */
 
 ```
 <!DOCTYPE html>
@@ -50,3 +50,102 @@
 ```
 
 ---
+
+/*-----------------------------CSS SECTION -------------------------------- */
+
+```
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+
+ html {
+  background-color: #fff;
+  color: #555;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;  //using this is a good practise
+ }
+
+ .row {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 180%;
+  word-spacing: 2px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+ h2:after {
+   display:block;
+   height: 2px;
+   background-color: #e67322;
+   content: " "; // this is mandatory. It refers to what content should be put
+   width: 100px;
+   margin: 0 auto; //to center the line
+   margin-top: 30px; //margin between the h2 tag and the small line
+}
+
+
+/* ------ this code moves the mobile image to the right side --- */
+.steps-box:first-child{
+    text-align: right;
+    padding-right: 3%;
+    margin-top: 30px;
+}
+
+/* -------------last child is the right side content ------*/
+
+.steps-box:last-child{
+    margin-top:70px;
+    padding-right: 3%;
+}
+
+/* this code reduces the mobile image size to 40% */
+.app-screen {
+    width:40%;    
+}
+
+.works-step{
+    margin-bottom: 50px;
+}
+
+.works-step div{
+    color: #e67e22;
+    border: 2px solid #e67e22;
+    display: inline-block;
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    padding: 5px;
+    float: left;
+    font-size: 150%;
+    margin-right: 25px;
+}
+
+/********** The :last-of-type selector allows you to target the last occurence of an element within its container ************/
+
+.works-step:last-of-type{
+    margin-bottom: 80px;
+}
+
+.btn-app img{
+    height:50px;
+    width:auto;
+    margin-right: 10px;
+    
+}
+
+
+```
