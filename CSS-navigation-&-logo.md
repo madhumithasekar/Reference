@@ -7,7 +7,7 @@
 	<header>		
 		<nav>
            <div class="row">
-              <img src="logo.png"> alt="Logo" class="logo">
+              <img src="logo.png" alt="Logo" class="logo">
 
               <ul class="main-nav">
                   <li><a href="#">Food delivery</a></li>
