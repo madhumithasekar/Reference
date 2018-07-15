@@ -14,13 +14,11 @@
 ## Introduction: Default Styles
 
 * [Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
-* [How to align Image and ICON in the same line](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-align-image-text.md)
+
 
 ## Designing the HEADER SECTION
 * [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
-* Placing image in the header section
 * [Placing text on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Text-on-images.md)
-* Placing 2 buttons on the image
 * [Designing buttons on the image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-buttons.md)
 * [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
 
@@ -29,6 +27,7 @@
 
 ## Designing the HOW IT WORKS SECTION
 * [Designing the how it works section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-how-it-works-section.md)
+* [How to align Image and ICON in the same line](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-align-image-text.md)
 
 ---
 
