@@ -10,9 +10,13 @@ All browsers set default margins for HTML elements if we dont specify any. To re
 }
 ```
 
+---
+
 ## What is box sizing?
 
 ![alt text](images/box-sizing.jpg "Box Sizing Images")
+
+---
 
 
 ## Including normalize.css
@@ -42,6 +46,14 @@ Note: The downloaded file will have seperate file as 2cols.css, 3cols.css. Combi
 Using this grid all our content will be in columns. You can have from 1 column in a row to 12 columns in a row.
 
 When using this grid we will be using only one value in px and rest we would be using in percentages
+
+---
+
+## Including grid.css
+
+[grid.css](https://github.com/jeriljose/Reference/blob/gh-pages/grid.css)
+
+---
 
 ## Default Styles
 
@@ -80,10 +92,3 @@ When using this grid we will be using only one value in px and rest we would be 
   margin: 0 auto;
 }
 ```
-
-
-/* ----------------------------GRID.CSS ----------------------------------- */
-
-
-[click here to link grid.css](https://github.com/jeriljose/Reference/blob/gh-pages/grid.css)
-
