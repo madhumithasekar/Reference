@@ -43,11 +43,41 @@ Using this grid all our content will be in columns. You can have from 1 column i
 
 When using this grid we will be using only one value in px and rest we would be using in percentages
 
+## Default Styles
+
+/* ---------------------------HTML SECTION --------------------------------- */
+
+<head>
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="grid.css">
+  <link rel="stylesheet" type="text/css" href="https://necolas.github.io/normalize.css/8.0.0/normalize.css">
+  <link rel="stylesheet" type="text/css" href="style.css">  
+</head>
+
 ```
- .row{
- 	max-width: 1140px;
- 	margin-left: auto;
- 	margin-right: auto;
+
+/* ----------------------------CSS SECTION ----------------------------------- */
+
+```
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
  }
+
+ html {
+  background-color: #fff;
+  color: #555;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;  //using this is a good practise
+ }
+ 
+ .row {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+```
 
 ```
