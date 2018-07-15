@@ -16,7 +16,7 @@
 * [Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
 * [Setting the container](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-the-container.md)
 
-## Designing the Header Section
+## Designing the HEADER SECTION
 * [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
 * Placing image in the header section
 * [Placing text on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Text-on-images.md)
@@ -24,8 +24,12 @@
 * [Designing buttons on the image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-buttons.md)
 * [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
 
-## Designing the Features Section
+## Designing the FEATURES SECTION
 * [Designing the features section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-features-section.md)
+
+## Designing the HOW IT WORKS SECTION
+* [Designing the how it works section]()
+
 ---
 
 # JAVASCRIPT
