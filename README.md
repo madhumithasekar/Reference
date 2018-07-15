@@ -14,6 +14,7 @@
 ## Introduction: Default Styles
 
 * [Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
+* [How to align Image and ICON in the same line](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-align-image-text.md)
 
 ## Designing the HEADER SECTION
 * [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
