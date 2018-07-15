@@ -11,10 +11,9 @@
 * [Setting default styles in CSS](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
 * [How to use pseudo class in CSS](https://github.com/jeriljose/Reference/blob/gh-pages/Using-pseudo-class.md)
 
-## Introduction: Setting up the container and default styles
+## Introduction: Default Styles
 
 * [Setting default styles](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-default-styles.md)
-* [Setting the container](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-setting-the-container.md)
 
 ## Designing the HEADER SECTION
 * [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
