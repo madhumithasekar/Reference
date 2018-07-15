@@ -17,7 +17,7 @@
 
 
 ## Designing the HEADER SECTION
-* [Designing the header section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
+* [Placing background image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Designing-header.md)
 * [Placing text on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Text-on-images.md)
 * [Designing buttons on the image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-designing-buttons.md)
 * [Designing navigation & logo on image](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-navigation-%26-logo.md)
