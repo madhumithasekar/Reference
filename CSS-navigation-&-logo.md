@@ -43,6 +43,7 @@ CSS for Logo
 	float: right /* put menu on the right side */
 	list-style: none; /* <ul> tags comes with bullet points. So to remove bullet points use this tag */
         margin-top:55px;
+	background-color: green;
 }
 ```
 
