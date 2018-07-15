@@ -1,6 +1,9 @@
 ## How to create a navigation & Logo
  
   Logo and Image will come on the same line. So put both image and logo in a row
+  
+  ![Menu and Logo](images/menu-logo.png "Menu and Logo")
+
 
 ```
 <body>
