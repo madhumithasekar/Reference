@@ -31,6 +31,9 @@
 
 ## Designing the CITIES SECTION
 * [Designing the cities section](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-cities-section.md)
+
+## Responsive CSS and MEDIA QUERIES
+* [CSS and Media Queries](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Responsive-media-queries.md)
 ---
 
 # JAVASCRIPT
