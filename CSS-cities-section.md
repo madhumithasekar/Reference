@@ -1,3 +1,5 @@
+![Cities Section](images/cities-section.png "Cities Section")
+
 ```
 <section>
         <div class="row">
