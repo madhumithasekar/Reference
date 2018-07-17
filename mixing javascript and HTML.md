@@ -1,3 +1,5 @@
+## Mixing Javascript & HTML
+
 ```Javascript
 
 var socialMedia = {
