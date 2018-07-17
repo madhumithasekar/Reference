@@ -53,4 +53,4 @@
    * [How to set and get elements of a DIV using innerHtml](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#to-get-the-elements-of-div---use-innerhtml)
    
 ## Mixing Javascript & HTML Sample Code
-   * [Mixing Javascript & HTML](#)
+   * [Mixing Javascript & HTML](https://github.com/jeriljose/Reference/blob/gh-pages/mixing%20javascript%20and%20HTML.md)
