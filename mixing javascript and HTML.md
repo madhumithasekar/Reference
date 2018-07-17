@@ -3,7 +3,7 @@
 var socialMedia = {
     facebook : 'http://facebook.com',
     twitter: 'http://twitter.com',
-    flickr: 'http://flickr.com,
+    flickr: 'http://flickr.com',
     youtube: 'http://youtube.com'
 };
 
