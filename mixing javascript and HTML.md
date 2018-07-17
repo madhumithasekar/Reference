@@ -1,5 +1,7 @@
 ## Mixing Javascript & HTML
 
+The below code prints social media icons (images)
+
 ```Javascript
 
 var socialMedia = {
@@ -28,9 +30,11 @@ var social = function() {
   }
 }(socialMedia);
 
+```
 
 HTML
 
+```
 <nav class="socialmediaicons"></nav>
 
 ```
