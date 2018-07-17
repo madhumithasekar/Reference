@@ -41,8 +41,8 @@
 
 ## JavaScript Function - Different ways of calling functions
 
+* [Different ways of calling Javascript functions](https://github.com/jeriljose/Reference/blob/gh-pages/JS-Different-ways-of-calling-javascript-functions.md)
 * [How to organize Javascript code using closures](https://github.com/jeriljose/Reference/blob/gh-pages/JS-closure.md)
-* [Different ways of calling Javascript functions]()
 
 ## Javascript DOM Traversal
    * [How to access values of a Text field](https://github.com/jeriljose/Reference/blob/gh-pages/JS-working-with-dom-elements.md#working-with-text-fields)
