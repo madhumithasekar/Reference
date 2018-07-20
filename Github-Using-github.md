@@ -109,7 +109,7 @@ revision one
 You are working on index.html(working environment) inside the editor. The staging enviroment might have an older version of index.html. To replace index.html inside the editor(working enviroment) with the index.html from the staging enviroment use
 
 ```
-git checkout index.html -> This will not contain the file from staging enviroment
+git checkout index.html
 
 ```
 
