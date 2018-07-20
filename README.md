@@ -62,3 +62,4 @@
 ---
 
 # Using GitHub
+  * [Git Reference](https://github.com/jeriljose/Reference/blob/gh-pages/Github-Using-github.md)
