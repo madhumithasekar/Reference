@@ -34,6 +34,7 @@
 
 ## Responsive CSS and MEDIA QUERIES
 * [CSS and Media Queries](https://github.com/jeriljose/Reference/blob/gh-pages/CSS-Responsive-media-queries.md)
+
 ---
 
 # JAVASCRIPT
@@ -57,3 +58,7 @@
    
 ## Mixing Javascript & HTML Sample Code
    * [Mixing Javascript & HTML](https://github.com/jeriljose/Reference/blob/gh-pages/mixing%20javascript%20and%20HTML.md)
+   
+---
+
+# Using GitHub
