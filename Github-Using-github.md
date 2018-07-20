@@ -31,7 +31,7 @@ Initialize a folder as a git repository
 * Create a folder and an html file inside the folder
 * Open Git Bash and go to that folder
    
- ``
+ ```
   cd Desktop/project
   git init
  ```
