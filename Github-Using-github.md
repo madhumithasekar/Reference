@@ -31,8 +31,10 @@ Initialize a folder as a git repository
 * Create a folder and an html file inside the folder
 * Open Git Bash and go to that folder
    
-    cd Desktop/project
-    git init
+ ``
+  cd Desktop/project
+  git init
+ ```
 
 Once you do "get init" the folder "project" will be initialized as a git repository
 
