@@ -97,9 +97,9 @@ git log
 
 Returns all the revisions that we have done
 
---* commit bbd70e1e6eee2f282c821ada84300e0f9b0d6488
---* Author: Ray Villalobos <ray@lynda.com>
---* Date: Tue May 26 23:05:46 2015 - 0400
+-- commit bbd70e1e6eee2f282c821ada84300e0f9b0d6488
+-- Author: Ray Villalobos <ray@lynda.com>
+-- Date: Tue May 26 23:05:46 2015 - 0400
 
 revision one
 
